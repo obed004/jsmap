@@ -11,5 +11,5 @@ console.log(map.has("fungi"))//has()method
 console.log(map.get("cow"));//get() method
 map.forEach((v,k) =>{
     console.log( k,":",v);
-});
+});//map.foreach()
 
